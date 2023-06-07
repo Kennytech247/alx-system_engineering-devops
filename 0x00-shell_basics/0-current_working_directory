@@ -1,0 +1,5 @@
+#!/bin/bash
+
+current_directory=$(dirname "$(realpath "$0")")
+echo "$current_directory"
+
